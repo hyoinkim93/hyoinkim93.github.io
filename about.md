@@ -14,7 +14,11 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Education 
 
-경희대학교
+**경희대학교, 산업공학** 2013.03 ~ 2017.08
+
+# Career
+ 
+**LG CNS** 2019.07 ~ 재직 중
 
 ## Header 2
 
