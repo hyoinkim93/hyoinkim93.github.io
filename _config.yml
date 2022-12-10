@@ -1,6 +1,6 @@
-resume_url: "Resume.pdf"
-author_name: "John Doe"
-url: johndoe.com
+#resume_url: "Resume.pdf"
+author_name: "Hyoin Kim"
+url: "https://hyoinkim93.github.io"
 
 plugins:
   - jekyll-seo-tag
