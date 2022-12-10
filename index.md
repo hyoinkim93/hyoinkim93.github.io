@@ -1,5 +1,5 @@
 ---
 layout: home
-home_text: Hey, I think you stole my dog - John Wick
-title: Rohit Jain
+home_text: Backend / Solution Engineer 
+title: Hyoin Kim
 ---
