@@ -18,9 +18,11 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Career
  
-###**LG CNS** 2019.07 ~ 재직 중 
+##**LG CNS** 2019.07 ~ 재직 중 
 - 시스템 & 솔루션 개발자
 - DevOn IDE (LG CNS 통합개발환경) 도구 개발 및 현장 지원
+
+# Skills
 
 ## Header 2
 
