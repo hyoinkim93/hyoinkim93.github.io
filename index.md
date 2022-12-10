@@ -1,5 +1,5 @@
 ---
 layout: home
-home_text: Backend / Solution Engineer 
+home_text: Backend Developer 
 title: Hyoin Kim
 ---
