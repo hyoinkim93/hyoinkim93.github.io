@@ -1,5 +1,5 @@
 ---
 layout: home
-home_text: Backend Developer 
+home_text: Application Architect
 title: Hyoin Kim
 ---
