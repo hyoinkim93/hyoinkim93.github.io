@@ -1,11 +1,9 @@
-
 ---
 layout: post
 comments: true
 title: Oracle TNS 
 categories: [TIL]
 ---
-
 
 프로젝트에서 Orange에 냅다 로그인만 해주고 DB 접속 정보를 안알려주었다..!
 TNS로 로그인했길래 정보를 어디서 찾는지 헤맴.
