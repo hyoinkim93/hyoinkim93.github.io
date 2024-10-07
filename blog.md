@@ -1,6 +1,6 @@
 ---
 layout: blog
-permalink: /categories/
+permalink: /blog/
 title: Hyoin Kim | Blog
 pagination:
   enabled: true
