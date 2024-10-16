@@ -1,0 +1,16 @@
+---
+layout: post
+comments: true
+title: Pattern.quote / Matcher.quoteReplacement 
+categories: [TIL]
+---
+
+jdk1.7에서 기존에 사용하던 버전의 velocity가 지원을 안함.
+폐쇄망인 관계로 정확한 버전을 반입하기가 까다로웠다.
+그래서 replaceAll을 이용해 ${valueName}을 value로 변환.
+
+이미 ${valueName}과 value 모두 Pattern.quote를 써주었음에도 불구하고 PatternSyntaxException 계속 발생..
+
+Pattern.quote: 정규식의 패턴에서 안전하게 사용할 문자열로 변환 (패턴 위치에 사용)
+Matcher.quoteReplacement: 대체 문자열에서 안전하게 사용할 문자열로 변환 (대체 문자열 위치에 사용)
+
