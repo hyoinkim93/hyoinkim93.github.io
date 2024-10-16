@@ -14,3 +14,9 @@ jdk1.7에서 기존에 사용하던 버전의 velocity가 지원을 안함.
 Pattern.quote: 정규식의 패턴에서 안전하게 사용할 문자열로 변환 (패턴 위치에 사용)
 Matcher.quoteReplacement: 대체 문자열에서 안전하게 사용할 문자열로 변환 (대체 문자열 위치에 사용)
 
+```java
+String text = Pattern.quote("${" + valueName + "}");
+String replacement = Matcher.quoteReplacement(value.toString());
+velocityTemplate = velocityTemplate.replaceAll(text, replacement);
+```
+
