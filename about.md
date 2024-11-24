@@ -3,156 +3,32 @@ layout: description
 title: About
 permalink: /about/
 ---
+- **Email** khyoin93@gmail.com
+##Intrdocution
+안녕하세요, 변화에 빠르게 적응하며 배우는 즐거움으로 성장하는 6년차 솔루션 개발자 김효인입니다.  빠르게 변화하는 환경 속에서 새로운 기술을 배우고, 이를 실제 문제 해결에 적용하며, 성장의 가치를 실현하는 것을 목표로 하고 있습니다.
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+IDE 플러그인부터 시작해서 배치 기반의 개발도구, 그리고 현재 생성형AI 기반 개발도구까지 서비스하며  현장에서 사용자에게 실질적인 가치를 제공하는 데 집중하고 있습니다. 각 프로젝트마다 사용자 니즈를 정확히 파악하고, 이를 기술적으로 풀어내는 과정에서 ‘기술이 실질적인 가치를 창출할 때 의미를 가진다’는 것을 배웠습니다. 이러한 경험은 단순한 기술 개발을 넘어, 사용자의 문제를 이해하고, 이를 해결하며 더 나은 경험을 제공하는 개발자로 성장할 수 있는 기반이 되었습니다.
 
-[Link to another page](./another-page.html).
+지속적으로 배우고 성장하며, 더 큰 변화를 만들어낼 수 있는 개발자가 되고자 합니다.
+##Education
+**경희대학교, 산업공학 학사**
 
-There should be whitespace between paragraphs.
+2013.03 ~ 2017.08
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+##Career
+**LG CNS** 
 
-# Education 
+2019.07.01 ~ 재직 중
 
-**경희대학교, 산업공학** 2013.03 ~ 2017.08
+어플리케이션아키텍처담당 AA Intelligence팀 선임 Architect
 
-# Career
- 
-##**LG CNS** 2019.07 ~ 재직 중 
-- 시스템 & 솔루션 개발자
-- DevOn AIDD (LG CNS 통합개발환경) 도구 개발 및 현장 지원
+Solution & System Programmer
 
-# Skills
+##Skills
 - JAVA
-- Spring, Spring Boot, Spring Batch, JPA
-- Postgresql
+- Spring, Spring Boot, Spring Batch
+- JPA, MyBatis
+- PostgreSQL
 - Eclipse RCP
 - GCP
 - Prompt Engineering
-
-# Project
-
-DevOn AIDD
-
-
-[DevOn AIDE 개발 및 유지보수]
-
-자사 통합개발환경을 설계, 개발함. 과제를 진행하며 분석/설계단계부터 테스트단계까지 전 사이클에 걸쳐 참여하였으며 변화하는 개발방식에 따라 MSA, AIDD에 맞는 개발환경을 설계/개발하고 전사 전파에 기여함.
-차세대 형사사법, 지방재정, 롯데면세점, 하나손해보험, 한진코어택배  등 다수의 프로젝트 현장 지원하며 유지보수 뿐만 아니라 실사용자(분석설계자, 개발자)의 요구사항을 분석, 반영하여 도구 사용 전파 및 프로젝트 생산성 향상에 기여함.
-
-
-[차세대 UCube 구축]
-유플러스 차세대 UCube구축 프로젝트에 참여하여 도구 개발 업무를 담당함. 아키텍처 변화가 많아 개발품질에 문제가 있었음. 이에 역공학도구를 활용하여 개발품질지표 산출물을 생성하여 개발품질을 향상시킴. tobe소스를 역공학 배치로 매일 수행하도록 했고 호출관계 위반 등 개발표준에 맞지 않는 소스를 판별해 산출물 생성하였음. 건수 및 상세 위반 사항에 대한 산출물 제공으로 프로젝트 전반의 개발품질 가이드와 아키텍처 확립에 기여함.
-
-[BC카드 페이앱 구축]
-BC카드 페이앱 구축 프록젝트에 모델링 도구 개발 업무를 담당하여 DevOn SD 설계도구의 활용도를 높이는데 기여함. 타 프로젝트와 다르게 ASIS의 기능을 그대로 가져가는 유지 개발건의 비율이 높아 설계자들이 설계도구를 가지고 설계하는데에 이슈를 제기하였음. 이에 SD에 UI, Dto 등 기존에 있는 엑셀파일을 업로드 할 수 있는 기능을 개발/배포하였음. 이후 개발단계에서 설계된 설계파일들을 활용하여 개발표준에 맞는 스켈레톤코드를 생성하였음. 비즈니스로직이 포함되는 service를 제외하고 controller, dao, dto 등 나머지 소스들은 추가 공수가 필요할 수 없는 수준으로 코드를 생성하여 그 결과, 개발자들에게 개발생산성에 크게 도움이 되었다는 피드백을 받았음.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
-
-## Emojis
