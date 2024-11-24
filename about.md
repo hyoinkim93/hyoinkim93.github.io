@@ -20,12 +20,23 @@ There should be whitespace between paragraphs. We recommend including a README, 
  
 ##**LG CNS** 2019.07 ~ 재직 중 
 - 시스템 & 솔루션 개발자
-- DevOn IDE (LG CNS 통합개발환경) 도구 개발 및 현장 지원
+- DevOn AIDD (LG CNS 통합개발환경) 도구 개발 및 현장 지원
 
 # Skills
+- JAVA
+- Spring, Spring Boot, Spring Batch, JPA
+- Postgresql
+- Eclipse RCP
+- GCP
+- Prompt Engineering
 
 # Project
+
+DevOn AIDD
+
+
 [DevOn AIDE 개발 및 유지보수]
+
 자사 통합개발환경을 설계, 개발함. 과제를 진행하며 분석/설계단계부터 테스트단계까지 전 사이클에 걸쳐 참여하였으며 변화하는 개발방식에 따라 MSA, AIDD에 맞는 개발환경을 설계/개발하고 전사 전파에 기여함.
 차세대 형사사법, 지방재정, 롯데면세점, 하나손해보험, 한진코어택배  등 다수의 프로젝트 현장 지원하며 유지보수 뿐만 아니라 실사용자(분석설계자, 개발자)의 요구사항을 분석, 반영하여 도구 사용 전파 및 프로젝트 생산성 향상에 기여함.
 
