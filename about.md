@@ -6,7 +6,7 @@ permalink: /about/
 
 - **Email** khyoin93@gmail.com
 
-##Intrdocution
+#Intrdocution
 
 안녕하세요, 변화에 빠르게 적응하며 배우는 즐거움으로 성장하는 6년차 솔루션 개발자 김효인입니다.  빠르게 변화하는 환경 속에서 새로운 기술을 배우고, 이를 실제 문제 해결에 적용하며, 성장의 가치를 실현하는 것을 목표로 하고 있습니다.
 
@@ -14,13 +14,13 @@ IDE 플러그인부터 시작해서 배치 기반의 개발도구, 그리고 현
 
 지속적으로 배우고 성장하며, 더 큰 변화를 만들어낼 수 있는 개발자가 되고자 합니다.
 
-##Education
+#Education
 
 **경희대학교, 산업공학 학사**
 
 2013.03 ~ 2017.08
 
-##Career
+#Career
 
 **LG CNS** 
 
@@ -30,8 +30,7 @@ IDE 플러그인부터 시작해서 배치 기반의 개발도구, 그리고 현
 
 Solution & System Programmer
 
-##Skills
-
+#Skills
 - JAVA
 - Spring, Spring Boot, Spring Batch
 - JPA, MyBatis
